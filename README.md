@@ -10,7 +10,7 @@ Instructions for every exercise can be found on every component.
 2. Clone this repository:
     ```
     $ git clone <url>
-    $ cd react-basic-state-exercises
+    $ cd react-state-exercises
     ```
 
 3. Install dependencies:
